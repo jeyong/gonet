@@ -8,7 +8,7 @@ RFC : HTTP protocol 정의
    * IP 주소로 resolve
    * 이 IP 주소로 TCP 연결하며 HTTT 포트는 80
    * 해당 사이트의 root document를 요청
- * url 처리 관련 library 
+ * url 처리 관련 library (https://golang.org/pkg/net/url/)
 ```go
 import "net/url"
 
