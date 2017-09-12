@@ -1,5 +1,5 @@
 # UDP
-![](../img/udp/udp.img)
+![](../img/udp/udp.png)
 packet 기반 메시지 전송에 최적화!
 비교적 짧은 크기의 메시지(packet)를 전송.
 목적지로 전송시 각 packet은 각기 다른 경로로 도착.
