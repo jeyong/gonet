@@ -1,5 +1,5 @@
 # UDP
-[](../img/udp/udp.img)
+![](../img/udp/udp.img)
 packet 기반 메시지 전송에 최적화!
 비교적 짧은 크기의 메시지(packet)를 전송.
 목적지로 전송시 각 packet은 각기 다른 경로로 도착.
@@ -48,7 +48,7 @@ packet은 순서대로 도착하지 않을 수도 있으며 네트워크 상태�
  * 응답 수신
 
 ## TFTP (Trivial File Transfer Protocol)
- [](../img/udp/tftp.png)   
+![](../img/udp/tftp.png)   
  * 인증이나 접근 관련 제어가 없음
  * 포맷
    * IP Header | UDP Header | Opcode | File Name | 0 | Mode | 0 |
